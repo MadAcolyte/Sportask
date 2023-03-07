@@ -137,4 +137,14 @@ body
    .sci{
       display: flex;
    }
+   .button
+{
+   background-color: #1a1a1a;
+   color: #dd4646;
+   border-radius: 8px;
+   padding: 14px 40px;
+   text-align: center;
+   text-decoration: none;
+   margin-bottom: 30px;
+}
 }
