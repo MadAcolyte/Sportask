@@ -60,3 +60,24 @@ body
    max-width: 700px;
    animation: fadeIn 1s ease-in-out;
  }
+@media (max-width: 768px) {
+   body {
+     padding: 0;
+   }
+ 
+   .about-section {
+     padding: 40px;
+     border-radius: 0;
+     box-shadow: none;
+   }
+ 
+   .section-title {
+     font-size: 24px;
+     margin-bottom: 20px;
+   }
+ 
+   .section-text {
+     font-size: 16px;
+     margin-bottom: 20px;
+   }
+ }
