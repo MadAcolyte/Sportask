@@ -203,7 +203,7 @@ body
 }
 .headerWeb {
     font-family:'Lato';
-    font-size: 0px;
+    font-size: 32px;
     margin: 0;
     position: fixed;
     top: 0;
@@ -218,7 +218,7 @@ body
   }
 
 
-@media (min-width: 450px){
+@media (max-width: 450px){
     body
 {
     display: flex;
@@ -417,7 +417,7 @@ body
 }
 .headerWeb {
     font-family:'Lato';
-    font-size: 32px;
+    font-size: 0px;
     margin: 0;
     position: fixed;
     top: 0;
